@@ -1,0 +1,11 @@
+commit initial
+
+git config --global user.name "Theripeer"
+git config --global user.email "cristianandrescv@gmail.com"
+git config --list
+
+inicializar repositorio
+git init 
+
+
+
